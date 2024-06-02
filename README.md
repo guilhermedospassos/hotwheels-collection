@@ -31,29 +31,3 @@ HotWheels Collection é um aplicativo web desenvolvido em React que permite aos 
    npm start
 
 O aplicativo será aberto automaticamente em `http://localhost:3000`.
-
-## Estrutura do Projeto
-
-hotwheels-collection/
-├── node_modules/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── About/
-│ │ ├── CarForm/
-│ │ ├── CarList/
-│ │ ├── Home/
-│ │ ├── Navbar/
-│ │ └── NotFound/
-│ ├── App.css
-│ ├── App.js
-│ ├── App.test.js
-│ ├── index.css
-│ ├── index.js
-│ ├── logo.svg
-│ ├── reportWebVitals.js
-│ └── setupTests.js
-├── .gitignore
-├── package-lock.json
-├── package.json
-└── README.md
