@@ -100,9 +100,6 @@ const CarForm = ({ onSubmit, onCancel }) => {
         </div>
         <div className={styles.buttons}>
           <button type="submit">Cadastrar</button>
-          <button type="button" onClick={onCancel}>
-            Cancelar
-          </button>
         </div>
       </form>
     </div>

@@ -10,11 +10,6 @@ const About = () => {
         carrinhos HotWheels. Aqui você pode cadastrar, visualizar, editar e
         remover os carros de sua coleção.
       </p>
-      <p>
-        A paixão por carrinhos HotWheels é algo que une entusiastas de todas as
-        idades. Esperamos que este site torne a experiência de colecionar ainda
-        mais emocionante!
-      </p>
     </div>
   );
 };
